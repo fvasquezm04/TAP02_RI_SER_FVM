@@ -1,0 +1,79 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/sebastian/ws_abb_irb_1600/src/build/abb_irb1600id_support
+-- Install configuration: ""
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/urdf
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/urdf/irb2400.urdf
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/urdf/irb1600id.xacro
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/urdf/irb1600id_macro.xacro
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/urdf/irb2400_macro.xacro
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/urdf/irb2400.xacro
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/urdf/irb1600id.urdf
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/visual
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/visual/base_link.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/visual/link_3.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/visual/link_6.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/visual/link_2.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/visual/link_5.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/visual/link_4.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/visual/link_1.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/collision
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/collision/base_link.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/collision/link_3.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/collision/link_6.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/collision/link_5.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/collision/link_4.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/collision/link_2_whole.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb1600id/collision/link_1.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/visual
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/visual/base_link.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/visual/link_3.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/visual/link_6.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/visual/link_2.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/visual/link_5.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/visual/link_4.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/visual/link_1.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/collision
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/collision/base_link.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/collision/link_3.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/collision/link_6.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/collision/link_2.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/collision/link_5.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/collision/link_4.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/collision/link_2_whole.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/meshes/irb2400/collision/link_1.stl
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/ament_index/resource_index/package_run_dependencies/abb_irb1600id_support
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/ament_index/resource_index/parent_prefix_path/abb_irb1600id_support
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/environment/ament_prefix_path.sh
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/environment/ament_prefix_path.dsv
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/environment/path.sh
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/environment/path.dsv
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/local_setup.bash
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/local_setup.sh
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/local_setup.zsh
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/local_setup.dsv
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/package.dsv
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/ament_index/resource_index/packages/abb_irb1600id_support
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/cmake/abb_irb1600id_supportConfig.cmake
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/cmake/abb_irb1600id_supportConfig-version.cmake
+-- Installing: /home/sebastian/ws_abb_irb_1600/src/install/abb_irb1600id_support/share/abb_irb1600id_support/package.xml
