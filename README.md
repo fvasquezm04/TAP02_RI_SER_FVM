@@ -19,4 +19,4 @@
 * ros2 run irb1600id_moveit_config get_jacobian.py --config PICK (obtiene los jacobianos del tramo 4B)
 * ros2 run irb1600id_moveit_config get_jacobian.py --config PLACE (obtiene los jacobianos del tramo 4D)
 * python3 verify_jacobian_velocity.py (compara la velocidad obtenida por el jacobiano con la velocidad en la trayectoria obtenida por moveit)
-* 
+  
